@@ -1,6 +1,6 @@
 # ResearchTalks
 
-Research talks I've watched and enjoyed them:
+Research talks I've watched and enjoyed them. A few of them are available on this [YouTube playlist](https://www.youtube.com/playlist?list=PL9qnQiNEYZfFJsEc10JgjSMNtoMINT9Eb).
 
 ## More technical
 
