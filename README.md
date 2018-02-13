@@ -6,6 +6,7 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 
 ### More technical
 
+* [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA) @ Lambda World 2016
 * [Compiling the Web – Building a Just-in-Time Compiler for JavaScript by Andreas Gal](https://www.microsoft.com/en-us/research/video/compiling-the-web-building-a-just-in-time-compiler-for-javascript/) @ MSResearch 2008
 * [Stabilizer: Statistically Sound Performance Evaluation by Emery Berger](https://www.microsoft.com/en-us/research/video/stabilizer-statistically-sound-performance-evaluation/) @MSResearch 2013
 * [The Tensor Algebra Compiler by Fredrik Kjolstad](https://www.microsoft.com/en-us/research/video/the-tensor-algebra-compiler/) @MSResearch 2017
