@@ -15,6 +15,7 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 * [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA) @ Lambda World 2016
 * ["Propositions as Types" by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU) @ Strange Loop 2015
 * [The Resurgence of Software Performance Engineering by Charles E. Leiserson](https://www.microsoft.com/en-us/research/video/the-resurgence-of-software-performance-engineering/) @MSResearch 2016
+* [How to Write a Great Research Paper by Simon Peyton Jones](https://www.youtube.com/watch?v=VK51E3gHENc)
 
 #### Programming
 
