@@ -9,6 +9,7 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 * [Adventures with Types in Haskell (1-4) by Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
   * [Lecture 1](https://www.youtube.com/watch?v=6COvD8oynmI)
 * [Compiling the Web – Building a Just-in-Time Compiler for JavaScript by Andreas Gal](https://www.microsoft.com/en-us/research/video/compiling-the-web-building-a-just-in-time-compiler-for-javascript/) @ MSResearch 2008
+* [On Characterizing the Capacity of Neural Networks using Algebraic Topology by William Guss](https://www.youtube.com/watch?v=QDQ9J5E7Uqk) @ MSResearch 2018
 * [Stabilizer: Statistically Sound Performance Evaluation by Emery Berger](https://www.microsoft.com/en-us/research/video/stabilizer-statistically-sound-performance-evaluation/) @MSResearch 2013
 * [The Tensor Algebra Compiler by Fredrik Kjolstad](https://www.microsoft.com/en-us/research/video/the-tensor-algebra-compiler/) @MSResearch 2017
 
