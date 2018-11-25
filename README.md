@@ -8,6 +8,7 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 
 * [Adventures with Types in Haskell (1-4) by Simon Peyton Jones](https://www.youtube.com/watch?v=6COvD8oynmI)
   * [Lecture 1](https://www.youtube.com/watch?v=6COvD8oynmI)
+* [Bits of Advice For the VM Writer by Cliff Click](https://www.youtube.com/watch?v=Hqw57GJSrac&list=PL9qnQiNEYZfFJsEc10JgjSMNtoMINT9Eb&index=12&t=0s) @ VMSS16
 * [Collapsing Towers of Interpreters by Tiark Rompf](https://www.youtube.com/watch?v=91m8X8hSEXg) @ POPL2018
 * [Compiling the Web – Building a Just-in-Time Compiler for JavaScript by Andreas Gal](https://www.microsoft.com/en-us/research/video/compiling-the-web-building-a-just-in-time-compiler-for-javascript/) @ MSResearch 2008
 * [Let's Take Machine Learning from Alchemy to Electricity by Ali Rahimi](https://www.youtube.com/watch?v=ORHFOnaEzPc) @ NIPS2017
