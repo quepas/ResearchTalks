@@ -14,9 +14,9 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 * [Let's Take Machine Learning from Alchemy to Electricity by Ali Rahimi](https://www.youtube.com/watch?v=ORHFOnaEzPc) @ NIPS2017
 * [On Characterizing the Capacity of Neural Networks using Algebraic Topology by William Guss](https://www.youtube.com/watch?v=QDQ9J5E7Uqk) @ MSResearch 2018
 * [Stabilizer: Statistically Sound Performance Evaluation by Emery Berger](https://www.microsoft.com/en-us/research/video/stabilizer-statistically-sound-performance-evaluation/) @MSResearch 2013
-* [The Tensor Algebra Compiler by Fredrik Kjolstad](https://www.microsoft.com/en-us/research/video/the-tensor-algebra-compiler/) @MSResearch 2017
-* [Verifying Spatial Properties of Array Computations by Domonic Orchard](https://www.youtube.com/watch?v=Wi2_1EoBjQE) @ OOPSLA 2017
-* [Virtual Machine Warmup Blows Hot and Cold by Edd Barrett](https://www.youtube.com/watch?v=LgCHAU8ZB00) @ OOPSLA 2017
+* [The Tensor Algebra Compiler by Fredrik Kjolstad](https://www.microsoft.com/en-us/research/video/the-tensor-algebra-compiler/) @MSResearch 2017; [TACO Compiler](http://tensor-compiler.org/)
+* [Verifying Spatial Properties of Array Computations by Domonic Orchard](https://www.youtube.com/watch?v=Wi2_1EoBjQE) @ OOPSLA 2017; [CamFort](https://camfort.github.io)
+* [Virtual Machine Warmup Blows Hot and Cold by Edd Barrett](https://www.youtube.com/watch?v=LgCHAU8ZB00) @ OOPSLA 2017; [Krun](https://github.com/softdevteam/krun)
 
 ### Less technical
 
