@@ -15,7 +15,8 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 * [On Characterizing the Capacity of Neural Networks using Algebraic Topology by William Guss](https://www.youtube.com/watch?v=QDQ9J5E7Uqk) @ MSResearch 2018
 * [Stabilizer: Statistically Sound Performance Evaluation by Emery Berger](https://www.microsoft.com/en-us/research/video/stabilizer-statistically-sound-performance-evaluation/) @MSResearch 2013
 * [The Tensor Algebra Compiler by Fredrik Kjolstad](https://www.microsoft.com/en-us/research/video/the-tensor-algebra-compiler/) @MSResearch 2017
-* [Virtual Machine Warmup Blows Hot and Cold by Edd Barrett](https://www.youtube.com/watch?v=LgCHAU8ZB00) @OOPSLA 2017
+* [Verifying Spatial Properties of Array Computations by Domonic Orchard](https://www.youtube.com/watch?v=Wi2_1EoBjQE) @ OOPSLA 2017
+* [Virtual Machine Warmup Blows Hot and Cold by Edd Barrett](https://www.youtube.com/watch?v=LgCHAU8ZB00) @ OOPSLA 2017
 
 ### Less technical
 
