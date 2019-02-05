@@ -11,6 +11,7 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 * [Bits of Advice For the VM Writer by Cliff Click](https://www.youtube.com/watch?v=Hqw57GJSrac&list=PL9qnQiNEYZfFJsEc10JgjSMNtoMINT9Eb&index=12&t=0s) @ VMSS16
 * [Collapsing Towers of Interpreters by Tiark Rompf](https://www.youtube.com/watch?v=91m8X8hSEXg) @ POPL2018
 * [Compiling the Web – Building a Just-in-Time Compiler for JavaScript by Andreas Gal](https://www.microsoft.com/en-us/research/video/compiling-the-web-building-a-just-in-time-compiler-for-javascript/) @ MSResearch 2008
+* [Decoupling Algorithms from the Organization of Computation for High-Performance Graphics & Imaging by Jonathan Ragan-Kelley](https://www.youtube.com/watch?v=dnFccCGvT90) @ MSResearch 2016
 * [Let's Take Machine Learning from Alchemy to Electricity by Ali Rahimi](https://www.youtube.com/watch?v=ORHFOnaEzPc) @ NIPS2017
 * [On Characterizing the Capacity of Neural Networks using Algebraic Topology by William Guss](https://www.youtube.com/watch?v=QDQ9J5E7Uqk) @ MSResearch 2018
 * [Stabilizer: Statistically Sound Performance Evaluation by Emery Berger](https://www.microsoft.com/en-us/research/video/stabilizer-statistically-sound-performance-evaluation/) @MSResearch 2013
