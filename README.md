@@ -27,7 +27,9 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 * [How to Write a Great Research Paper by Simon Peyton Jones](https://www.youtube.com/watch?v=VK51E3gHENc) :heart_eyes:
 * [MLIR: Multi-Level Intermediate Representation by T. Shpeisman & C. Lattner](https://www.youtube.com/watch?v=qzljG6DKgic) @ EuroLLVM 2019
 
-#### Programming
+#### Programming craft
+
+* [Using WebAssembly With NodeJS by Ben Smith](https://www.youtube.com/watch?v=hYrg3GNn1As)
 
 ## Sources
 
