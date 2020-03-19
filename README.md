@@ -31,6 +31,10 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 
 * [Using WebAssembly With NodeJS by Ben Smith](https://www.youtube.com/watch?v=hYrg3GNn1As) @ NodeConfEU 2017
 
+##### C/C++
+
+* [rand() Considered Harmful by Stephan T. Lavavej](https://channel9.msdn.com/Events/GoingNative/2013/rand-Considered-Harmful) @ GoingNative 2013
+
 ## Sources
 
 ### General
