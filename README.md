@@ -19,6 +19,10 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 * [Verifying Spatial Properties of Array Computations by Domonic Orchard](https://www.youtube.com/watch?v=Wi2_1EoBjQE) @ OOPSLA 2017; [CamFort](https://camfort.github.io)
 * [Virtual Machine Warmup Blows Hot and Cold by Edd Barrett](https://www.youtube.com/watch?v=LgCHAU8ZB00) @ OOPSLA 2017; [Krun](https://github.com/softdevteam/krun) :heart_eyes:
 
+#### LLVM
+
+* [AVX-512 Mask Registers Code Gen Challenges in LLVM by Guy Blank](https://www.youtube.com/watch?v=NmarI5ErisE) @ EuroLLVM 2017
+
 ### Less technical
 
 * [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA) @ Lambda World 2016
