@@ -26,6 +26,7 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 ### Less technical
 
 * [Category Theory for the Working Hacker by Philip Wadler](https://www.youtube.com/watch?v=V10hzjgoklA) @ Lambda World 2016
+* [Functional Design Patterns by Scott Wlaschin](https://www.youtube.com/watch?v=srQt1NAHYC0) @ NDC Conferences 2017
 * [Propositions as Types by Philip Wadler](https://www.youtube.com/watch?v=IOiZatlZtGU) @ Strange Loop 2015
 * [Quantum Computational Supremacy by Scott Aaronson](https://www.youtube.com/watch?v=XazjgK3yQB8) @ Black Hole Initiative 2020
 * [The Resurgence of Software Performance Engineering by Charles E. Leiserson](https://www.microsoft.com/en-us/research/video/the-resurgence-of-software-performance-engineering/) @ MSResearch 2016
