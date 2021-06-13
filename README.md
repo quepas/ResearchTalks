@@ -41,6 +41,11 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 
 * [rand() Considered Harmful by Stephan T. Lavavej](https://channel9.msdn.com/Events/GoingNative/2013/rand-Considered-Harmful) @ GoingNative 2013
 
+#### CPU / Micro-architectures
+
+* [Architecture All Access: Modern CPU Architecture Part 1 – Key Concepts](https://www.youtube.com/watch?v=vgPFzblBh7w) @ Intel Technology 2021
+* [Architecture All Access: Modern CPU Architecture Part 2 – Microarchitecture Deep Dive](https://www.youtube.com/watch?v=o_WXTRS2qTY) @ Intel Technology 2021
+
 ## Sources
 
 ### General
