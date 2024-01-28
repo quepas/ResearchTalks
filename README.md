@@ -32,6 +32,7 @@ Research talks I've watched and enjoyed them. A few of them are available on thi
 * [The Resurgence of Software Performance Engineering by Charles E. Leiserson](https://www.microsoft.com/en-us/research/video/the-resurgence-of-software-performance-engineering/) @ MSResearch 2016
 * [How to Write a Great Research Paper by Simon Peyton Jones](https://www.youtube.com/watch?v=VK51E3gHENc) :heart_eyes:
 * [MLIR: Multi-Level Intermediate Representation by T. Shpeisman & C. Lattner](https://www.youtube.com/watch?v=qzljG6DKgic) @ EuroLLVM 2019
+* [Rich Harris - Rethinking reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) @ YGLF 2019
 
 #### Programming craft
 
